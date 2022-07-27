@@ -1,0 +1,11 @@
+{
+	"name": "linkedService-kvweudp27juladftest01",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "AzureKeyVault",
+		"typeProperties": {
+			"baseUrl": "https://kvweudp27juladftest01.vault.azure.net/"
+		}
+	}
+}
